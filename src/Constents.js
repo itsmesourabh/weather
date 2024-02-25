@@ -1,1 +1,3 @@
-export const API_KEY ='217955be5c026df3e8a0e08625645641'
+export const API_KEY =''
+
+//give your own api key to them here
